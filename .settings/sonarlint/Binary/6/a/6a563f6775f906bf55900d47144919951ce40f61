@@ -1,0 +1,11 @@
+
+X
+squid:S106";Replace this usage of System.out or System.err by a logger.(‚Û‰†8‡ü”¤+
+W
+squid:S106";Replace this usage of System.out or System.err by a logger.(½¯Ìu8ø×õ“¤+
+V
+squid:S106	";Replace this usage of System.out or System.err by a logger.(óÌÎ»ùÿÿÿÿ
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(àôöÖøÿÿÿÿ8ƒ®ş“¤+
+@squid:S1940")Use the opposite operator ("!=") instead.(íæ—Û
+±squid:S2293"Replace the type specification in this constructor call with the diamond operator ("<>"). (sonar.java.source not set. Assuming 7 or greater.)(ÄâÓÂıÿÿÿÿ8šå€”¤+

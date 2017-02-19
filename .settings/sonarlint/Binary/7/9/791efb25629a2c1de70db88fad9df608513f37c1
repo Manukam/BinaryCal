@@ -1,0 +1,12 @@
+
+X
+squid:S106
+";Replace this usage of System.out or System.err by a logger.(òÕ©İ8“á°”¤+
+]squid:S1118":Add a private constructor to hide the implicit public one.(‘¤Äıÿÿÿÿ8–ıš¤+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³Å‰Øøÿÿÿÿ8Âè³›¤+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÌĞÈªøÿÿÿÿ8óŠ›¤+
+]
+squid:S106";Replace this usage of System.out or System.err by a logger.(ì­øúÿÿÿÿ8¼‰¢›¤+
+±squid:S2293"Replace the type specification in this constructor call with the diamond operator ("<>"). (sonar.java.source not set. Assuming 7 or greater.)(éù¯‹ıÿÿÿÿ8“á°”¤+
+]
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ó›¬œøÿÿÿÿ8áÚ·›¤+
